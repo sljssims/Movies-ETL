@@ -1,0 +1,6 @@
+config.py
+.ipynb_checkpoints
+ipython_config.py
+movies_metadata.csv
+ratings.csv
+wikipedia_movies.json
