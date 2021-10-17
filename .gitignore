@@ -3,4 +3,4 @@ config.py
 ipython_config.py
 movies_metadata.csv
 ratings_small.csv
-wikipedia_movies.json
+wikipedia-movies.json
