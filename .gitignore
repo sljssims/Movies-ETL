@@ -2,5 +2,5 @@ config.py
 .ipynb_checkpoints
 ipython_config.py
 movies_metadata.csv
-ratings.csv
+ratings_small.csv
 wikipedia_movies.json
