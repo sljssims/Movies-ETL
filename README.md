@@ -6,3 +6,4 @@ The purpose of this analysis is to learn how to Extract, Transform, and Load dat
 ![image](https://github.com/sljssims/Movies-ETL/blob/main/Resources/Movies%20Query.PNG)
 
 ### Ratings Query
+![image](https://github.com/sljssims/Movies-ETL/blob/main/Resources/Ratings%20Query.PNG)
